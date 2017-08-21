@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 
+require('semantic-ui-css/semantic.css')
+require('semantic-ui-css/semantic.js')
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
